@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @guerrieroi
+- 👀 I’m interested in software development.
+- 🌱 I’m currently learning Salesforce DX Package Development Model
